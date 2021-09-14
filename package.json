@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "2.3.99",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
